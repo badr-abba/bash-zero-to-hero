@@ -1,7 +1,9 @@
 # Maîtriser Bash : De Débutant à Expert
 > **Un cours complet de A à Z pour devenir un professionnel du scripting Bash.**
 
-![Bash Logo](https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/PNG/512x512.png" alt="Bash Logo" width="200"/>
+</p>
 
 ---
 
