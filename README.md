@@ -79,4 +79,4 @@ Les contributions sont les bienvenues ! Consultez le fichier [CONTRIBUTING.md](C
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ---
-Copyright © 2024 Badreddine ABBA. Tous droits réservés.
+Copyright © 2026 Badreddine ABBA. Tous droits réservés.
