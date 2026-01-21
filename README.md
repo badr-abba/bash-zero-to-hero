@@ -70,8 +70,8 @@ Chaque dossier de module contient :
 
 Pour commencer, clonez ce dépôt :
 ```bash
-git clone https://github.com/votre-username/bash-course-mastery.git
-cd bash-course-mastery
+git clone https://github.com/badr-abba/bash-zero-to-hero.git
+cd bash-zero-to-hero
 ```
 
 ## 🤝 Contribuer
